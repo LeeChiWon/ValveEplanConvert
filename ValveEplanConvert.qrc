@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Lang/Lang_ko_KR.qm</file>
+        <file>Img/gas-pipe.png</file>
+        <file>Img/exchange.png</file>
+        <file>Img/filedelete.png</file>
+        <file>Img/alldelete.png</file>
+        <file>Img/info.png</file>
+        <file>Img/open-folder-with-document.png</file>
+    </qresource>
+</RCC>
